@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>test on Coldicy&#39;Blog</title>
     <link>https://coldicy.github.io/categories/test/</link>
     <description>Recent content in test on Coldicy&#39;Blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
-    <copyright>[© Licensed under CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-hans)</copyright>
+    <copyright>Licensed under CC BY-NC-SA 4.0</copyright>
     <lastBuildDate>Fri, 22 Nov 2024 23:12:44 +0800</lastBuildDate>
     <atom:link href="https://coldicy.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
