@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Coldicy&#39;Blog</title>
-    <link>https://coldicy.github.io/</link>
-    <description>Recent content on Coldicy&#39;Blog</description>
+    <title>posts on Coldicy&#39;Blog</title>
+    <link>https://coldicy.github.io/posts/</link>
+    <description>Recent content in posts on Coldicy&#39;Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>[© Licensed under CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-hans)</copyright>
     <lastBuildDate>Wed, 22 Jan 2025 23:12:44 +0800</lastBuildDate>
-    <atom:link href="https://coldicy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://coldicy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>markdown</title>
       <link>https://coldicy.github.io/posts/markdown/</link>
