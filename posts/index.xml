@@ -7,17 +7,10 @@
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
     <copyright>Licensed under CC BY-NC-SA 4.0</copyright>
-    <lastBuildDate>Sun, 26 Jan 2025 04:09:12 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 23:12:44 +0800</lastBuildDate>
     <atom:link href="https://coldicy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>文章测试</title>
-      <link>https://coldicy.github.io/posts/%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/</link>
-      <pubDate>Sun, 26 Jan 2025 04:09:12 +0800</pubDate>
-      <guid>https://coldicy.github.io/posts/%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>markdown</title>
+      <title>markdown 语法测试</title>
       <link>https://coldicy.github.io/posts/markdown/</link>
       <pubDate>Wed, 22 Jan 2025 23:12:44 +0800</pubDate>
       <guid>https://coldicy.github.io/posts/markdown/</guid>
@@ -32,68 +25,6 @@ excludeSearch: true&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;这篇文章提供了一些基础的 Markdown 语法样例，这些可以在 Hugo 的内容文件中使用。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>test</title>
-      <link>https://coldicy.github.io/posts/test%E6%96%87%E7%AB%A0-copy/</link>
-      <pubDate>Fri, 22 Nov 2024 23:12:44 +0800</pubDate>
-      <guid>https://coldicy.github.io/posts/test%E6%96%87%E7%AB%A0-copy/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>test1</title>
-      <link>https://coldicy.github.io/posts/test%E6%96%87%E7%AB%A0-copy-2/</link>
-      <pubDate>Fri, 22 Nov 2024 23:12:44 +0800</pubDate>
-      <guid>https://coldicy.github.io/posts/test%E6%96%87%E7%AB%A0-copy-2/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>test1</title>
-      <link>https://coldicy.github.io/posts/test%E6%96%87%E7%AB%A0-copy-3/</link>
-      <pubDate>Fri, 22 Nov 2024 23:12:44 +0800</pubDate>
-      <guid>https://coldicy.github.io/posts/test%E6%96%87%E7%AB%A0-copy-3/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>test1</title>
-      <link>https://coldicy.github.io/posts/test%E6%96%87%E7%AB%A0-copy-4/</link>
-      <pubDate>Fri, 22 Nov 2024 23:12:44 +0800</pubDate>
-      <guid>https://coldicy.github.io/posts/test%E6%96%87%E7%AB%A0-copy-4/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>test1</title>
-      <link>https://coldicy.github.io/posts/test%E6%96%87%E7%AB%A0-copy-5/</link>
-      <pubDate>Fri, 22 Nov 2024 23:12:44 +0800</pubDate>
-      <guid>https://coldicy.github.io/posts/test%E6%96%87%E7%AB%A0-copy-5/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>test1</title>
-      <link>https://coldicy.github.io/posts/test%E6%96%87%E7%AB%A0-copy-6/</link>
-      <pubDate>Fri, 22 Nov 2024 23:12:44 +0800</pubDate>
-      <guid>https://coldicy.github.io/posts/test%E6%96%87%E7%AB%A0-copy-6/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>test1</title>
-      <link>https://coldicy.github.io/posts/test%E6%96%87%E7%AB%A0/</link>
-      <pubDate>Fri, 22 Nov 2024 23:12:44 +0800</pubDate>
-      <guid>https://coldicy.github.io/posts/test%E6%96%87%E7%AB%A0/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>测试</title>
-      <link>https://coldicy.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
-      <pubDate>Thu, 22 Feb 2024 23:12:44 +0800</pubDate>
-      <guid>https://coldicy.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
-      <description>&lt;p&gt;这是一篇测试文章&lt;/p&gt;
-&lt;p&gt;flowchart LR
-A[Hard] &amp;ndash;&amp;gt;|Text| B(Round)
-B &amp;ndash;&amp;gt; C{Decision}
-C &amp;ndash;&amp;gt;|One| D[Result 1]
-C &amp;ndash;&amp;gt;|Two| E[Result 2]&lt;/p&gt;
-&lt;p&gt;gfdfsd&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

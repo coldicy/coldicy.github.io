@@ -10,24 +10,10 @@
     <lastBuildDate>Wed, 22 Jan 2025 23:12:44 +0800</lastBuildDate>
     <atom:link href="https://coldicy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>语法</title>
-      <link>https://coldicy.github.io/categories/%E8%AF%AD%E6%B3%95/</link>
+      <title>语法测试</title>
+      <link>https://coldicy.github.io/categories/%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/</link>
       <pubDate>Wed, 22 Jan 2025 23:12:44 +0800</pubDate>
-      <guid>https://coldicy.github.io/categories/%E8%AF%AD%E6%B3%95/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>test</title>
-      <link>https://coldicy.github.io/categories/test/</link>
-      <pubDate>Fri, 22 Nov 2024 23:12:44 +0800</pubDate>
-      <guid>https://coldicy.github.io/categories/test/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>测试</title>
-      <link>https://coldicy.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
-      <pubDate>Thu, 22 Feb 2024 23:12:44 +0800</pubDate>
-      <guid>https://coldicy.github.io/categories/%E6%B5%8B%E8%AF%95/</guid>
+      <guid>https://coldicy.github.io/categories/%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/</guid>
       <description></description>
     </item>
   </channel>
